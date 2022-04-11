@@ -17,4 +17,4 @@ y el quinto un valor de 500pts
 
 ## Installation :mechanic:
 
-> Para ejecutar de manera correcta este programa descargue de la carpeta llamada ChallengeSofka-main y de doble clic en Game.csproj para que pueda ejecutar desde visual studio.
+> Para ejecutar de manera correcta este programa se tienen dos opciones, clonar el repositorio completo desde GitHub y mediante Visual Studio ejecutarlos; También se puede descargar los archivos que están en la carpeta ChallengeSofka\Game\bin\Debug\netcoreapp3.1 y ejecutar el Game.exe
